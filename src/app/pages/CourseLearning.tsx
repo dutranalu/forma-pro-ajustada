@@ -63,7 +63,6 @@ export function CourseLearning() {
                 <div className="text-center">
                   <PlayCircle className="mx-auto size-20" />
                   <p className="mt-4 text-lg font-medium">Vídeo / conteúdo da aula</p>
-                  <p className="mt-2 text-sm text-blue-100">Aqui você pode substituir por player, PDF ou material complementar.</p>
                 </div>
               </div>
               <CardContent className="p-6">

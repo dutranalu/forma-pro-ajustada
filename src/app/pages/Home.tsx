@@ -84,7 +84,7 @@ export function Home() {
           {[
             { icon: GraduationCap, title: 'Cursos profissionalizantes', text: 'Conteúdo objetivo, organizado por aulas e pensado para aplicação real.' },
             { icon: Clock3, title: 'Estude no seu tempo', text: 'Continue exatamente de onde parou, com acompanhamento de progresso.' },
-            { icon: ShieldCheck, title: 'Estrutura pronta para evoluir', text: 'Projeto ideal para TCC, portfólio e futura integração com back-end.' },
+            { icon: ShieldCheck, title: 'Aprendizado que abre portas', text: 'Desenvolva competências práticas e prepare-se para novas oportunidades profissionais.' },
           ].map((item) => (
             <Card key={item.title} className="border-slate-200 bg-white shadow-sm">
               <CardContent className="p-6">
